@@ -44,6 +44,33 @@
     align-items: center;
     gap: 100px;
 }
+.nash
+{
+    margin-top: 50px;
+    margin-left: 100px;
+}
+.analit
+{
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: start;
+    margin-left: 100px;
+    gap: 20px;
+}
+.analitimg
+{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+
+
+
+
+
 @media (max-width:510px){
     .paragrafo
     {
@@ -62,5 +89,9 @@
     .h1
     {
        width: 400px; 
+    }
+    .analit
+    {
+        margin-left: 50px;
     }
 }
