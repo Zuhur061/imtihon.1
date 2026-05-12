@@ -188,7 +188,6 @@
   border-radius: 14px;
   font-size: 18px;
   font-weight: 700;
-  transition: 0.3s;
 }
 .fatima{
   display: flex;
@@ -452,6 +451,28 @@
     margin: auto;
     margin-top: 70px;
 }
+.png6
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    flex-wrap: wrap;
+} 
+.png4
+{
+    margin-top: 70px;
+    width: 400px;
+    height: 270px;
+    text-align: justify;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0 4px 10px  grey;
+    gap: 10px;
+}
+
 @media (max-width:510px){
     .paragrafo
     {
