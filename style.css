@@ -14,7 +14,7 @@
 {
     display: flex;
     justify-content: space-around;
-    color: white;
+    color: grey;
     align-items: center;
     padding: 20px;
 }
@@ -472,7 +472,24 @@
     box-shadow: 0 4px 10px  grey;
     gap: 10px;
 }
-
+.dubai
+{
+    display: flex;
+    flex-direction: column;
+}
+.kto{
+    display: flex;
+    gap: 30px;
+}
+.footlogo
+{
+    display: flex;
+    gap: 100px;
+    justify-content: space-between;
+    margin-top: 50px;
+    align-items: center;
+    flex-wrap: wrap;
+}
 @media (max-width:510px){
     .paragrafo
     {
