@@ -404,6 +404,16 @@
     flex-wrap: wrap;
     justify-content: space-around;
 }
+.popadit
+{
+    color: black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 50%;
+    gap: 50px;
+    margin-top: 40px;
+}
 @media (max-width:510px){
     .paragrafo
     {
