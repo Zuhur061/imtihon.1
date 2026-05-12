@@ -32,7 +32,7 @@
 }
 .h1
 {
-    width: 400px;
+    width: 90%;
 }
 .section1
 {
@@ -64,6 +64,28 @@
 {
     display: flex;
     justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+.png1
+{
+    margin-top: 70px;
+    width: 290px;
+    height: 300px;
+    text-align: justify;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0 4px 10px  grey;
+    padding: 10px;
+    gap: 10px;
+}
+.pngs
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
     flex-wrap: wrap;
 }
 
