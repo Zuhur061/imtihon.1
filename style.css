@@ -46,8 +46,9 @@
 }
 .nash
 {
+    text-align: center;
     margin-top: 50px;
-    margin-left: 100px;
+    
 }
 .analit
 {
@@ -62,7 +63,7 @@
 .analitimg
 {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-evenly;
     flex-wrap: wrap;
 }
 
