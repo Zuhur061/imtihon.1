@@ -441,6 +441,17 @@
     gap: 30px;
     flex-wrap: wrap;
 }
+.startup1
+{
+    width: 100%;
+    background-image: url('/Rectangle\ 1992.png');
+    height: 250px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin: auto;
+    margin-top: 70px;
+}
 @media (max-width:510px){
     .paragrafo
     {
